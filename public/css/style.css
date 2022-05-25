@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+body {
+  background-color: #e7dcc2;
+}
+h2,
+h3 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 26px;
+  margin: 20px;
+}
+h2 {
+  text-decoration: underline;
+}
+p {
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  margin: 20px;
+}
+ul {
+  font-family: "Quicksand", sans-serif;
+  font-style: italic;
+}
+nav {
+  margin-top: 23px;
+}
+a {
+  font-family: "Quicksand", sans-serif;
+  color: purple;
+  font-size: 20px;
+}
+div {
+  margin: 0 auto;
+  width: 80%;
+}
+iframe{
+  margin-bottom: 20px;
+}
+.shifted {
+  margin-left: 20px;
+}
+#self {
+  float: left;
+  padding: 20px;
+  margin-right: 20px;
+  border-radius: 40px;
+  max-width: 60%;  
+}
+#visArt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  margin-bottom: 20px;
+  width: 80%;
+}
+form {
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  margin: 10px 40px 20px;
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+label {
+  display: inline-block;
+
+}
+button {
+  padding: 40px;
+}
+table {
+  font-family: "Quicksand", sans-serif;
+  font-size: 15px;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+}
+.brown {
+  color: brown;
+}
+.navy {
+  color: navy;
+}
+#insta {
+  text-transform: capitalize;
+}
+#div1 {
+  background-color: #b3a990;
+  display: flex;
+  position: fixed;
+  margin-top: 5px;
+  justify-content: space-evenly;
+
+}
+#div2 {
+  background-color: #d2b48c;
+  margin-top: 100px;
+}
+#div3 {
+  background-color: lightgray;
+}
+#div4 {
+  background-color: #89cff0;
+}
+#div5 {
+  background-color: #28d5ad;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+}
+#div1,
+#div2,
+#div3,
+#div4,
+#div5 {
+  border: solid;
+  margin-bottom: 20px;
+}
